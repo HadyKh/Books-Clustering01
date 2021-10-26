@@ -1,3 +1,3 @@
 # Books-Clustering01
 Books Clustering using KMeans as a clusterer algorithm
-using BOW, LDA and Word embedding to extract features to compare which one is better.
+using BOW, TF-IDF, LDA and Word embedding to extract features and to compare their results.
